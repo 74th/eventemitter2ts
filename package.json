@@ -1,0 +1,20 @@
+{
+  "name": "eventemitter2ts",
+  "version": "1.0.0",
+  "description": "eventemitter2 for typescript",
+  "main": "index.js",
+  "dependencies": {
+    "eventemitter2": "^4.1.2"
+  },
+  "devDependencies": {},
+  "files": [
+    "index.js",
+    "eventemitter2.d.ts"
+  ],
+  "author": "74th",
+  "license": "MIT",
+  "typescript": {
+    "definition": "./eventemitter2.d.ts"
+  },
+  "typings": "./eventemitter2.d.ts"
+}
