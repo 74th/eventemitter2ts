@@ -1,4 +1,6 @@
-# eventemitter2 for typescript type definition
+# eventemitter2ts 
+
+This adds type definitions to events of eventemitter2 for typescript.
 
 ```
 npm install --save https://github.com/74th/eventemitter2ts.git

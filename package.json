@@ -1,7 +1,7 @@
 {
   "name": "eventemitter2ts",
-  "version": "1.0.0",
-  "description": "eventemitter2 for typescript",
+  "version": "1.0.1",
+  "description": "add type definitions to events of eventemitter2 for typescript",
   "author": "74th <site@j74th.com>",
   "license": "MIT",
   "keywords": [
