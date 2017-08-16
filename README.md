@@ -3,7 +3,7 @@
 This adds type definitions to events of eventemitter2 for typescript.
 
 ```
-npm install --save https://github.com/74th/eventemitter2ts.git
+npm install --save eventemitter2ts
 ```
 
 ![screenshot.png](./screenshot.png)
