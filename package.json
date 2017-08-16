@@ -2,17 +2,21 @@
   "name": "eventemitter2ts",
   "version": "1.0.0",
   "description": "eventemitter2 for typescript",
-  "main": "index.js",
+  "author": "74th <site@j74th.com>",
+  "license": "MIT",
+  "keywords": [
+    "eventemitter",
+    "typescript"
+  ],
+  "repository": "git@github.com:74th/eventemitter2ts.git",
   "dependencies": {
     "eventemitter2": "^4.1.2"
   },
-  "devDependencies": {},
+  "main": "index.js",
   "files": [
     "index.js",
     "eventemitter2.d.ts"
   ],
-  "author": "74th",
-  "license": "MIT",
   "typescript": {
     "definition": "./eventemitter2.d.ts"
   },
